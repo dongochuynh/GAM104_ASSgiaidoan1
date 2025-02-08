@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Apple
+  - ui
+  - Enemies
+  - Co
+  - Cup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CanJump
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1467460861
+    locked: 0
+  - name: Items
+    uniqueID: 1547696907
+    locked: 0
+  - name: Enemies
+    uniqueID: 3902812841
+    locked: 0
+  - name: Ui
+    uniqueID: 1769624397
+    locked: 0
+  m_RenderingLayers:
+  - Default
